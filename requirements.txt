@@ -1,0 +1,19 @@
+##Create a Python env to run the packages
+## Command -> conda create -n {env_name} python=3.x -y 
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm ##to display Progress bar
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+Flask ##to create the website
+Flask-Cors 
+-e . ##This is for setup.py file. So that the Config folder can access these libraries

@@ -29,7 +29,8 @@ list_of_files = [
     "params.yaml", ##parameters
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb" ##for research trials
+    "research/trials.ipynb" ##for research trials,
+    "templates/index.html"
 ]
 
 for filePath in list_of_files:    
