@@ -2,11 +2,11 @@
 This is a Data Science Project that involves in classification of of Chicken whether they are suffering from a disease known as Coccidiosis. In this project I will use use pictures of Chicken fecal matter pictures and Deep Learning to classify the chickens correctly.
 
 ## Workflows
-
+## All Steps are in 01_data_injestion.ipynb 
 1. Update config.yaml
 2. Update secrets.yaml [Optional-For_credentials]
 3. Update params.yaml
-4. Update the entity
+4. Update the entity [This-is-in-Entity-folder]
 5. Update the configuration manager in src config
 6. Update the components
 7. Update the pipeline 
